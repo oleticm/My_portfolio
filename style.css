@@ -60,3 +60,9 @@ nav ul li a {
 .btn:hover {
   transform: scale(1.2) !important;
 }
+.content {
+  position: absolute;
+  top: 50%;
+  left: 8%;
+  transform: transla;
+}
