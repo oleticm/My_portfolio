@@ -185,3 +185,33 @@ h5 {
   line-height: 27px;
   margin-bottom: 25px;
 }
+.projects {
+  background-color: #191919;
+}
+.construction {
+  display: block;
+  text-align: center;
+}
+.construction i {
+  font-size: 50px;
+  display: block;
+  text-align: center;
+  color: #f9004d;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.construction p {
+  font-size: 50px;
+  color: white;
+  padding-bottom: 50px;
+}
+.contact-box p {
+  color: #f9004d;
+}
+.contact-box {
+  display: block;
+  text-align: center;
+  width: auto;
+  background-color: #101010;
+  position: relative;
+}
