@@ -237,7 +237,13 @@ h5 {
   align-items: center;
   min-height: 400px;
   flex-wrap: wrap;
+  text-decoration: none;
 }
+
+.box-pro a {
+  text-decoration: none;
+}
+
 .card-pro {
   height: 365px;
   width: 335px;
@@ -254,7 +260,7 @@ h5 {
 .card-pro:hover {
   background-image: url(inflationcalc.jpg);
   background-size: cover;
-  transition: opacity 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
 }
 
 .card-pro:hover i {
