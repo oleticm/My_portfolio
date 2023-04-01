@@ -237,7 +237,6 @@ h5 {
   align-items: center;
   min-height: 400px;
   flex-wrap: wrap;
-  text-decoration: none;
 }
 
 .box-pro a {
@@ -254,7 +253,6 @@ h5 {
   position: relative;
   overflow: hidden;
   text-align: center;
-  text-decoration: none;
 }
 
 .card-pro:hover {
